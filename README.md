@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I am EMNYZER A.K.A Hilman Zulqarami.
+
+
+### Reach me on:
+- Email     :
+- Website   :
+- Instagram :
+- LinkedIn  :
+
 
 <!--
 **EMNYZER/EMNYZER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
