@@ -28,6 +28,12 @@
 
 ###
 
+<div align="center" >
+   <img height="470" src="https://i.pinimg.com/originals/7b/e5/a1/7be5a1cb85ca4d0483c1ff17a487d50a.gif"  />
+</div>
+
+###
+
 <h2>🍀My statistic:</h2>
 
 ###
