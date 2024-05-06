@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emnyzer</h1>
 <h5 align="center">You can call me Hilman Zulqarami if you like.</h5>
+###
 
-
-<div float="right" >
+<div align="center" >
    <img height="530" src="https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif"  />
 </div>
 
