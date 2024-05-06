@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Emnyzer</h1><h6 align="center">You can call me Hilman Zulqarami if you like.</h6>
+<h1 align="center">Hi 👋, I'm Emnyzer</h1>
+<h6 align="center">You can call me <b>"Hilman Zulqarami"</b> if you like.</h6>
+
+###
+
+<div align="center">
+  <a href="https://github.com/EMNYZER/EMNYZER/edit/main/README.md#about-me-" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=About%20me&logo=slack&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+</div>
 
 ###
 
@@ -8,8 +17,12 @@
 
 ###
 
-<h2>About me :</h2>
+<h2>🍀About me :</h2>
 <p>I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
+
+###
+
+<h2>🍀My statistic :</h2>
 
 ###
 
@@ -27,21 +40,23 @@
 
 ###
 
-<h2 align="center">Reach me on:</h2>
+<h2 align="center">🍀Reach me on:</h2>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hilman-zulqarami-20192b188/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00241b&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
+  </a>
+  <a href="zulqaramih@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/emnyzer/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00241b&logoColor=white&labelColor=&style=flat" height="39" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCO44I2vXGJy4en48X6xGmjg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=00241b&logoColor=white&labelColor=&style=flat" height="39" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="youtube logo"  />
   </a>
 </div>
 
 ###
-
