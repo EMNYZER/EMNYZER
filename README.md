@@ -4,7 +4,7 @@
 <div style="display:flex">
   <div width="250">
     <h3>About me :</h3>
-    <p>I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
+    <p width ="230">I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
   </div>
 
   <div align="right" width="250" >
