@@ -5,7 +5,7 @@
 <p style="font-size:16px">I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
 
 <div float="right" >
-   <img height="500" src="https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif"  />
+   <img height="530" src="https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif"  />
 </div>
 
 
