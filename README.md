@@ -26,6 +26,8 @@
 <h2>🍀About me:</h2>
 <p>I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
 
+ __Note:__ The picture below is not me, I am a man.
+ 
 ###
 
 <div align="center" >
