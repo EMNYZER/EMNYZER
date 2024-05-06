@@ -29,7 +29,10 @@
 ###
 
 <div align="center" >
-   <img height="450" src="https://i.pinimg.com/originals/d1/02/d6/d102d6c1f5c4997c7b268b3eda173e86.gif"  />
+    <img height="330" src="https://cdn.leonardo.ai/users/3a131935-3610-43be-9233-7fec54c40a7f/generations/fcf2241b-99d2-49df-8024-594355e9d728/Default_make_me_a_logo_with_the_main_element_being_a_wolf_imag_3.jpg"  />
+    <a href="https://open.spotify.com/user/314a44whxy2clvvhs4mdqugfdhby">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=314a44whxy2clvvhs4mdqugfdhby&count=5&unique=false" alt="Spotify recently played"  />
+    </a>
 </div>
 
 ###
