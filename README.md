@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/EMNYZER/EMNYZER/edit/main/README.md#about-me-" target="_blank">
+  <a href="https://github.com/EMNYZER#about-me-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=About%20me&logo=slack&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
   </a>
 </div>
