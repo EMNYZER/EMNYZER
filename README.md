@@ -5,7 +5,7 @@
 
 <div align="center" >
   <a href="https://github.com/EMNYZER#about-me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=About&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/static/v1?message=About&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo" />
   </a>
   <a href="https://github.com/EMNYZER#my-statistic" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Statistic&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
