@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">About me :</h2>
-<h4 align="center">I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</h4> 
+<h4 float="left" align="center">I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</h4> 
 
 ###
 
