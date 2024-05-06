@@ -3,9 +3,15 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/EMNYZER#about-me-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=About%20me&logo=slack&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+<div align="center" >
+  <a href="https://github.com/EMNYZER#about-me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=About&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://github.com/EMNYZER#my-statistic" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Statistic&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://github.com/EMNYZER#reach-me-on" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Social%20media&logo=none&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
   </a>
 </div>
 
@@ -17,12 +23,12 @@
 
 ###
 
-<h2>🍀About me :</h2>
+<h2>🍀About me:</h2>
 <p>I am an informatics engineering student at mataram university, interested in science and technology, such as physics, math, astronomy and artificial intelligence but on the other side also like things that are related to creativity and art, such as graphic design, music and painting.</p> 
 
 ###
 
-<h2>🍀My statistic :</h2>
+<h2>🍀My statistic:</h2>
 
 ###
 
