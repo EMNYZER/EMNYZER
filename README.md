@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hilman-zulqarami-20192b188/" target="_blank">
+  <a href="https://www.linkedin.com/in/hilman-zulqarami/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00241b&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/emnyzer/?next=%2F" target="_blank">
